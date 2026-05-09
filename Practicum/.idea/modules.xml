@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Console/Console.iml" filepath="$PROJECT_DIR$/Console/Console.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Console/ConsoleApp.iml" filepath="$PROJECT_DIR$/Console/ConsoleApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practicum.iml" filepath="$PROJECT_DIR$/Practicum.iml" />
+    </modules>
+  </component>
+</project>
